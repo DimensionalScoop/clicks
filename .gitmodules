@@ -1,0 +1,3 @@
+[submodule "janus-keyboard"]
+	path = janus-keyboard
+	url = git@github.com:DimensionalScoop/janus-keyboard.git
